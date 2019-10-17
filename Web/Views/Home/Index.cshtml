@@ -1,0 +1,23 @@
+﻿<div class="row">
+    <tbody>
+        @foreach (var item in @ViewBag.games)
+        {
+            <div class="col-lg-4 col-md-6 mb-4">
+                <div class="card h-100">
+                    <a href="#"><img class="card-img-top" src="@item.imagem" alt=""></a>
+                    <div class="card-body">
+                    <h4 class="card-title">
+                        <a href="#">@item.nome </a>
+                    </h4>
+                    <h5>R$ @item.preco</h5>
+                    <p class="card-text">@item.descricao</p>
+                    </div>
+                    <div class="card-footer">
+                        <a href="/Home/AdcCarrinho/@item.id" class="btn btn-primary btn-lg btn-block">Colocar no Carrinho</a>
+                    </div>
+                </div>
+            </div>
+        }
+    </tbody>
+
+</div>

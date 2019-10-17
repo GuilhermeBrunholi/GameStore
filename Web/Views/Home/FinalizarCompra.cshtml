@@ -1,0 +1,13 @@
+@model Dominio.Entidades.Pagamento
+
+<div class="wrapper">
+  <form class="form-signin" asp-action="ConfirmarCompra" asp-controller="Home" method="POST">
+    <h2 class="form-signin-heading">Pagamento</h2><br>
+    <div>
+      <select type="text" class="form-control" asp-for="id"
+        asp-items='@(new SelectList(@ViewBag.forma, "id", "formaDePagamento"))'>
+      </select>
+    </div><br><hr>
+    <button class="btn btn-lg btn-primary">Finalizar</button>
+  </form>
+</div>

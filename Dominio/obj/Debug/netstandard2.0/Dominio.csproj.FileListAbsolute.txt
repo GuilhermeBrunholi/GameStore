@@ -1,0 +1,9 @@
+C:\Dev\DotNet\ECommerce\Dominio\bin\Debug\netstandard2.0\Dominio.deps.json
+C:\Dev\DotNet\ECommerce\Dominio\bin\Debug\netstandard2.0\Dominio.dll
+C:\Dev\DotNet\ECommerce\Dominio\bin\Debug\netstandard2.0\Dominio.pdb
+C:\Dev\DotNet\ECommerce\Dominio\obj\Debug\netstandard2.0\Dominio.csprojAssemblyReference.cache
+C:\Dev\DotNet\ECommerce\Dominio\obj\Debug\netstandard2.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Dev\DotNet\ECommerce\Dominio\obj\Debug\netstandard2.0\Dominio.AssemblyInfoInputs.cache
+C:\Dev\DotNet\ECommerce\Dominio\obj\Debug\netstandard2.0\Dominio.AssemblyInfo.cs
+C:\Dev\DotNet\ECommerce\Dominio\obj\Debug\netstandard2.0\Dominio.dll
+C:\Dev\DotNet\ECommerce\Dominio\obj\Debug\netstandard2.0\Dominio.pdb
