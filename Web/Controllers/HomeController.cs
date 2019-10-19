@@ -1,12 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Diagnostics;
-using System.Linq;
-using System.Threading.Tasks;
-using Dominio.Entidades;
+﻿using Dados;
+using System;
 using Microsoft.AspNetCore.Mvc;
-using Web.Models;
-using Dados;
 using Microsoft.AspNetCore.Http;
 
 namespace Web.Controllers
@@ -37,7 +31,7 @@ namespace Web.Controllers
         public IActionResult Login(string email, string senha)
         {
             var usuario = _db.Login(email, senha);
-            if (usuario == null)
+            if (usuario == null || usuario.id == 0)
             {
                 return View();
             }
@@ -86,7 +80,7 @@ namespace Web.Controllers
             else
             {
                 _db.AddProdutoCarrinho(id, Convert.ToInt32(idUsuario));
-                return RedirectToAction("Index");
+                return RedirectToAction("Carrinho");
             }
         }
 
@@ -119,6 +113,17 @@ namespace Web.Controllers
             var idUsuario = Convert.ToInt32(HttpContext.Session.GetInt32("idUser"));
             ViewBag.produtos = _db.Compras(idUsuario);
             return View();
+        }
+
+        public IActionResult Cadastro()
+        {
+            return View();
+        }
+
+        public IActionResult FinalizarCadastro(string nome, string email, string senha)
+        {
+            _db.NovoUsuario(nome, email, senha);
+            return RedirectToAction("Login");
         }
 
     }

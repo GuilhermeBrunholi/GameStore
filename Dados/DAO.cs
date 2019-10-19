@@ -83,7 +83,6 @@ namespace Dados
             cmd.CommandType = CommandType.Text;
             int rows = cmd.ExecuteNonQuery();
             _conexao.Close();
-
         }
 
         public void RemoveProdutoCarrinho(int id)
@@ -150,6 +149,16 @@ namespace Dados
             }
             _conexao.Close();
             return lista;
+        }
+
+        public void NovoUsuario(string nome, string email, string senha)
+        {
+            _conexao.Open();
+            SqliteCommand cmd = _conexao.CreateCommand();
+            cmd.CommandText = "INSERT INTO Usuarios (nome, email, senha) VALUES ('" + nome + "','" + email + "', '" + senha + "');";
+            cmd.CommandType = CommandType.Text;
+            cmd.ExecuteNonQuery();
+            _conexao.Close();
         }
 
     }

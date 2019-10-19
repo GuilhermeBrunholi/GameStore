@@ -35,3 +35,4 @@ C:\Dev\DotNet\ECommerce\Web\obj\Debug\netcoreapp2.2\Razor\Views\Home\login.g.csh
 C:\Dev\DotNet\ECommerce\web\obj\Debug\netcoreapp2.2\Razor\Views\Home\Carrinho.g.cshtml.cs
 C:\Dev\DotNet\ECommerce\web\obj\Debug\netcoreapp2.2\Razor\Views\Home\FinalizarCompra.g.cshtml.cs
 C:\Dev\DotNet\ECommerce\web\obj\Debug\netcoreapp2.2\Razor\Views\Home\Compras.g.cshtml.cs
+C:\Dev\DotNet\ECommerce\web\obj\Debug\netcoreapp2.2\Razor\Views\Home\Cadastro.g.cshtml.cs
