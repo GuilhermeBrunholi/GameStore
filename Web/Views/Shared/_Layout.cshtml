@@ -19,9 +19,9 @@
 </head>
 <body>
     <header>
-        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-dark bg-dark mb-3">
             <div class="container">
-                <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">GameStore</a>
+                <a class="nav-link text-white" asp-area="" asp-controller="Home" asp-action="Index">GameStore</a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarSupportedContent"
                         aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
@@ -34,15 +34,14 @@
                         @if (ViewBag.use == null || ViewBag.use == 0)
                         {
                             <li class="nav-item">
-                                <a class="nav-link text-dark float-right" asp-area="" asp-controller="Home" asp-action="Login">Entrar</a>
+                                <a class="nav-link text-white float-right" asp-area="" asp-controller="Home" asp-action="Login">Entrar</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link text-dark float-right" asp-area="" asp-controller="Home" asp-action="Cadastro">Cadastro</a>
+                                <a class="nav-link text-white float-right" asp-area="" asp-controller="Home" asp-action="Cadastro">Cadastro</a>
                             </li>
                         }else{
-
                             <div class="dropdown">
-                                <button class="btn dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                <button class="btn dropdown-toggle text-white" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                                     @ViewBag.usuario
                                 </button>
                                 <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
@@ -63,12 +62,6 @@
             @RenderBody()
         </main>
     </div>
-
-    <footer class="border-top footer text-muted">
-        <div class="container">
-            &copy; 2019 - GameStore
-        </div>
-    </footer>
 
     <environment include="Development">
         <script src="~/lib/jquery/dist/jquery.js"></script>
