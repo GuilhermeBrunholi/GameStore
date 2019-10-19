@@ -185,24 +185,22 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Dev\\DotNet\\ECommerce\\Dominio\\Dominio.csproj",
+      "projectUniqueName": "F:\\Desenvolvimento\\Entrevista\\GameStore\\Dominio\\Dominio.csproj",
       "projectName": "Dominio",
-      "projectPath": "C:\\Dev\\DotNet\\ECommerce\\Dominio\\Dominio.csproj",
+      "projectPath": "F:\\Desenvolvimento\\Entrevista\\GameStore\\Dominio\\Dominio.csproj",
       "packagesPath": "C:\\Users\\Guilherme\\.nuget\\packages\\",
-      "outputPath": "C:\\Dev\\DotNet\\ECommerce\\Dominio\\obj\\",
+      "outputPath": "F:\\Desenvolvimento\\Entrevista\\GameStore\\Dominio\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Guilherme\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Guilherme\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

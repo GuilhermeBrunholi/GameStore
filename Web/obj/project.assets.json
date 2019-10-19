@@ -12426,34 +12426,32 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Dev\\DotNet\\ECommerce\\Web\\Web.csproj",
+      "projectUniqueName": "F:\\Desenvolvimento\\Entrevista\\GameStore\\Web\\Web.csproj",
       "projectName": "Web",
-      "projectPath": "C:\\Dev\\DotNet\\ECommerce\\Web\\Web.csproj",
+      "projectPath": "F:\\Desenvolvimento\\Entrevista\\GameStore\\Web\\Web.csproj",
       "packagesPath": "C:\\Users\\Guilherme\\.nuget\\packages\\",
-      "outputPath": "C:\\Dev\\DotNet\\ECommerce\\Web\\obj\\",
+      "outputPath": "F:\\Desenvolvimento\\Entrevista\\GameStore\\Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Guilherme\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Guilherme\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.2"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Dev\\DotNet\\ECommerce\\Dados\\Dados.csproj": {
-              "projectPath": "C:\\Dev\\DotNet\\ECommerce\\Dados\\Dados.csproj"
+            "F:\\Desenvolvimento\\Entrevista\\GameStore\\Dados\\Dados.csproj": {
+              "projectPath": "F:\\Desenvolvimento\\Entrevista\\GameStore\\Dados\\Dados.csproj"
             },
-            "C:\\Dev\\DotNet\\ECommerce\\Dominio\\Dominio.csproj": {
-              "projectPath": "C:\\Dev\\DotNet\\ECommerce\\Dominio\\Dominio.csproj"
+            "F:\\Desenvolvimento\\Entrevista\\GameStore\\Dominio\\Dominio.csproj": {
+              "projectPath": "F:\\Desenvolvimento\\Entrevista\\GameStore\\Dominio\\Dominio.csproj"
             }
           }
         }

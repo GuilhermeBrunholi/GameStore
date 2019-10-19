@@ -7,3 +7,12 @@ C:\Dev\DotNet\ECommerce\Dominio\obj\Debug\netstandard2.0\Dominio.AssemblyInfoInp
 C:\Dev\DotNet\ECommerce\Dominio\obj\Debug\netstandard2.0\Dominio.AssemblyInfo.cs
 C:\Dev\DotNet\ECommerce\Dominio\obj\Debug\netstandard2.0\Dominio.dll
 C:\Dev\DotNet\ECommerce\Dominio\obj\Debug\netstandard2.0\Dominio.pdb
+F:\Desenvolvimento\Entrevista\GameStore\Dominio\bin\Debug\netstandard2.0\Dominio.deps.json
+F:\Desenvolvimento\Entrevista\GameStore\Dominio\bin\Debug\netstandard2.0\Dominio.dll
+F:\Desenvolvimento\Entrevista\GameStore\Dominio\bin\Debug\netstandard2.0\Dominio.pdb
+F:\Desenvolvimento\Entrevista\GameStore\Dominio\obj\Debug\netstandard2.0\Dominio.csprojAssemblyReference.cache
+F:\Desenvolvimento\Entrevista\GameStore\Dominio\obj\Debug\netstandard2.0\Dominio.csproj.CoreCompileInputs.cache
+F:\Desenvolvimento\Entrevista\GameStore\Dominio\obj\Debug\netstandard2.0\Dominio.AssemblyInfoInputs.cache
+F:\Desenvolvimento\Entrevista\GameStore\Dominio\obj\Debug\netstandard2.0\Dominio.AssemblyInfo.cs
+F:\Desenvolvimento\Entrevista\GameStore\Dominio\obj\Debug\netstandard2.0\Dominio.dll
+F:\Desenvolvimento\Entrevista\GameStore\Dominio\obj\Debug\netstandard2.0\Dominio.pdb

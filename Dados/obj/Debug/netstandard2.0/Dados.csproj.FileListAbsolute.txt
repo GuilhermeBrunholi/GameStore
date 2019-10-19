@@ -10,3 +10,15 @@ C:\Dev\DotNet\ECommerce\Dados\obj\Debug\netstandard2.0\Dados.pdb
 C:\Dev\DotNet\ECommerce\Dados\bin\Debug\netstandard2.0\Dominio.dll
 C:\Dev\DotNet\ECommerce\Dados\bin\Debug\netstandard2.0\Dominio.pdb
 C:\Dev\DotNet\ECommerce\Dados\obj\Debug\netstandard2.0\Dados.csproj.CopyComplete
+F:\Desenvolvimento\Entrevista\GameStore\Dados\bin\Debug\netstandard2.0\Dados.deps.json
+F:\Desenvolvimento\Entrevista\GameStore\Dados\bin\Debug\netstandard2.0\Dados.dll
+F:\Desenvolvimento\Entrevista\GameStore\Dados\bin\Debug\netstandard2.0\Dados.pdb
+F:\Desenvolvimento\Entrevista\GameStore\Dados\bin\Debug\netstandard2.0\Dominio.dll
+F:\Desenvolvimento\Entrevista\GameStore\Dados\bin\Debug\netstandard2.0\Dominio.pdb
+F:\Desenvolvimento\Entrevista\GameStore\Dados\obj\Debug\netstandard2.0\Dados.csprojAssemblyReference.cache
+F:\Desenvolvimento\Entrevista\GameStore\Dados\obj\Debug\netstandard2.0\Dados.csproj.CoreCompileInputs.cache
+F:\Desenvolvimento\Entrevista\GameStore\Dados\obj\Debug\netstandard2.0\Dados.AssemblyInfoInputs.cache
+F:\Desenvolvimento\Entrevista\GameStore\Dados\obj\Debug\netstandard2.0\Dados.AssemblyInfo.cs
+F:\Desenvolvimento\Entrevista\GameStore\Dados\obj\Debug\netstandard2.0\Dados.csproj.CopyComplete
+F:\Desenvolvimento\Entrevista\GameStore\Dados\obj\Debug\netstandard2.0\Dados.dll
+F:\Desenvolvimento\Entrevista\GameStore\Dados\obj\Debug\netstandard2.0\Dados.pdb
