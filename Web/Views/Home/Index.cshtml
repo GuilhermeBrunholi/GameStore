@@ -9,8 +9,8 @@
                     <h4 class="card-title">
                         <a>@item.nome </a>
                     </h4>
-                    <h5>R$ @item.preco</h5>
-                    <p class="card-text">@item.descricao</p>
+                    <hr>
+                    <h6 >R$ @item.preco</h6>
                     </div>
                     <div>
                         <a href="/Home/AdcCarrinho/@item.id" class="btn btn-primary btn-lg btn-block">Colocar no Carrinho</a>
@@ -21,3 +21,10 @@
     </tbody>
 
 </div>
+
+<style>
+    h6 {
+        color: #66ff33;
+        float: right;
+    }
+</style>
