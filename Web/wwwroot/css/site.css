@@ -62,3 +62,8 @@ body {
 .card {
   background-color: #343a40;
 }
+
+.title {
+  font-family: 'Bangers', cursive;
+  font-size: 25px;
+}

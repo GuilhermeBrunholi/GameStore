@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Desenvolvimento\\Entrevista\\GameStore\\Web\\Web.csproj": {}
+    "F:\\Desenvolvimento\\Entrevista\\GameStore\\web\\Web.csproj": {}
   },
   "projects": {
     "F:\\Desenvolvimento\\Entrevista\\GameStore\\Dados\\Dados.csproj": {
@@ -116,14 +116,14 @@
         }
       }
     },
-    "F:\\Desenvolvimento\\Entrevista\\GameStore\\Web\\Web.csproj": {
+    "F:\\Desenvolvimento\\Entrevista\\GameStore\\web\\Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Desenvolvimento\\Entrevista\\GameStore\\Web\\Web.csproj",
+        "projectUniqueName": "F:\\Desenvolvimento\\Entrevista\\GameStore\\web\\Web.csproj",
         "projectName": "Web",
-        "projectPath": "F:\\Desenvolvimento\\Entrevista\\GameStore\\Web\\Web.csproj",
+        "projectPath": "F:\\Desenvolvimento\\Entrevista\\GameStore\\web\\Web.csproj",
         "packagesPath": "C:\\Users\\Guilherme\\.nuget\\packages\\",
-        "outputPath": "F:\\Desenvolvimento\\Entrevista\\GameStore\\Web\\obj\\",
+        "outputPath": "F:\\Desenvolvimento\\Entrevista\\GameStore\\web\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
