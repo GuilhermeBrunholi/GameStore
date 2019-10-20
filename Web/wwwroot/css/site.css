@@ -65,5 +65,10 @@ body {
 
 .title {
   font-family: 'Bangers', cursive;
-  font-size: 25px;
+  font-size: 29px;
+  padding: inherit;
+}
+
+.menu{
+  padding-left: 5px;
 }
